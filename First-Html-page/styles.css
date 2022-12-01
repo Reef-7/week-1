@@ -1,0 +1,42 @@
+
+
+body {
+  background-color: white;
+  }
+  h1 {
+    color: #66BFBF ;
+  font-family: 'Sacramento';
+  
+  }
+  hr{
+    color: #EAF6F6;
+  }
+  h3{
+    color: #11999E;
+  }
+  h2
+  {
+    color: #66BFBF;
+     font-family: 'Montserrat';
+  }
+  main
+  {
+    font-family: 'Merriweather';
+  }
+  header 
+  {
+    background-color: #E4F9F5;
+  }
+  footer
+  {
+    background-color: #66BFBF;
+    
+  }
+  button
+  {
+    color: #11cdd4 ;
+    padding: 28px 20px;
+    font-family: 'Montserrat';
+    text : white;
+    
+  }
