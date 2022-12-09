@@ -1,6 +1,8 @@
 main{
     font-family: 'Raleway';
     color: white;
+    display: flex;
+    flex-direction: center;
 }
 body{
     background-image: url(assets/bg-desktop.png) ; 
@@ -9,5 +11,38 @@ body{
     background-position: top ; 
     background-size: cover;
     
+
+    
  
 }
+h1{
+    
+}
+button{
+    
+}
+div
+{
+
+}
+progress {
+    width: 100%;
+    
+        writing-mode: horizontal-tb;
+        appearance: rounded;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 1em;
+        width: 10em;
+        vertical-align: -0.2em;
+         accent-color: red;
+         
+        
+         
+  }
+  
+
+
+  
+  
+ 
